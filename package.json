@@ -1,6 +1,6 @@
 {
-  "name": "@edx/paragon",
-  "version": "20.50.0",
+  "name": "@hammerlabs-net/paragon",
+  "version": "1.0.0-alpha",
   "description": "Accessible, responsive UI component library based on Bootstrap.",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/openedx/paragon.git"
+    "url": "https://github.com/hammerlabs-net/paragon"
   },
   "files": [
     "/dist",
